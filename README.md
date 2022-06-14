@@ -33,13 +33,11 @@ Here are some ideas to get you started:
 - :telescope: I'm still working as a design engineer, but I've been studying data analytics for more than a year, I've already gone through many different trainings, I aspire to Data Science
 
 - :seedling: Actively studying
-<div id="header" align="center">
    <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100"/>
-</div>
+  </a>
 and
-<div id="header" align="center">
    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
-</div>
+  </a>
 - :zap: In my free time I read technical literature and watch useful webinars.
 
 - :mailbox:How to contact me: [![Linkedin Icon](www.linkedin.com/in/davydovandrey/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
