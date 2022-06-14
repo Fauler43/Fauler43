@@ -24,3 +24,22 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Fauler43-username&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  ### :man_technologist: About Me :
+  I am a junior analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I'm still working as a design engineer, but I've been studying data analytics for more than a year, I've already gone through many different trainings, I aspire to Data Science
+
+- :seedling: Actively studying
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100"/>
+</div>
+and
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+</div>
+- :zap: In my free time I read technical literature and watch useful webinars.
+
+- :mailbox:How to contact me: [![Linkedin Icon](www.linkedin.com/in/davydovandrey/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
